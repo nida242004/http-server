@@ -1,0 +1,27 @@
+[
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "genre": "Fiction",
+      "year_published": 2020,
+      "pages": 304,
+      "rating": 4.2
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "Young Adult",
+        "year_published": 2008,
+        "pages": 374,
+        "rating": 4.3
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classics",
+      "year_published": 1925,
+      "pages": 180,
+      "rating": 4.2
+    }
+  ]
+  
